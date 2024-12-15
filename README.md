@@ -15,7 +15,9 @@
 Technogy Used : HTML, CSS, JavaScript
 
 ## 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request with your ideas or improvements.
 
 ## 📄 License
-This project is licensed under the <a href="https://github.com/Vasu10134/chat-app?tab=MIT-1-ov-file">MIT License</a>.
+
+This project is licensed under the <a href="https://github.com/Vasu10134/chat-app?tab=MIT-1-ov-file" >MIT License</a>.
